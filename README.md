@@ -1,4 +1,4 @@
-Medium Unmanaged Extension
+Recommendation Unmanaged Extension
 ================================
 
 This is an unmanaged extension translating a Cypher query.
